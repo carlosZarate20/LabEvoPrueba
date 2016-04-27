@@ -3,11 +3,11 @@
 
 using namespace std;
 
-int x = 10, y = 5;
+int x = 40, y = 5;
 
 int main()
 {
 	cout << "Hola mundo" << endl;
-	cout << x-y;
+	cout << x*y;
     return 0;
 }
