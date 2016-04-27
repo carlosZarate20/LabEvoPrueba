@@ -8,6 +8,6 @@ int x = 8, y = 4;
 int main()
 {
 	cout << "Hola mundo" << endl;
-	cout << x/y;
+	cout << x-y;
     return 0;
 }
